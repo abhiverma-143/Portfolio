@@ -92,9 +92,3 @@ You can deploy the static site to any static host (Netlify, Vercel, GitHub Pages
 ### License
 
 This project is available under the MIT License. See `LICENSE` for details (optional).
-
----
-
-**Hindi (संक्षेप में)**
-
-इस रिपोजिटरी में Abhishek Verma का पर्सनल पोर्टफोलियो है। इसे आसानी से कस्टमाइज़ किया जा सकता है — नाम, प्रो젝트 इमेज, और कॉन्टैक्ट डिटेल्स `index.html` में बदल दें।
